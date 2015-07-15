@@ -4,11 +4,12 @@
 @import 'neat';
 
 
-$fa-font-path:"//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts"
+$fa-font-path:"//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts";
+
 html {
     box-sizing: border-box;
 }
 
-   *,*:before, *:after {
+*,*:before, *:after {
     box-sizing: inherit;
-   }
+}
