@@ -11,5 +11,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "reset-css": "~2.0.2011012602",
+    "fontawesome": "~4.3.0",
+    "neat": "~1.7.2"
+  }
 }
