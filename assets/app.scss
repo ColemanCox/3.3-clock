@@ -6,12 +6,41 @@
 
 $fa-font-path:"//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts";
 
-html {
-    box-sizing: border-box;
-}
+html { background-color:navy;
+
+   }
 
 *,*:before, *:after {
     box-sizing: inherit;
 }
+.ampm {
+    height:100px;
+    width:85px;
+}
 
+
+.h, .m, .s, .ampm{
+    @include outer-container;
+@include span-columns(6);
+ @include span-columns(6);
+     margin-top:10%;
+    margin-left:6em;
+    display:inline-block;
+    height:200px;
+    width:175px;
+    border: dotted 8px orange;
+    position: relative;
+}
+
+img{
+
+    margin-left:2px;
+    margin-top:3px;
+    height:175px;
+    width:155px;
+    position:absolute;
+}
+
+//function of some sort() {
+    //var = setInterval(3000);
 

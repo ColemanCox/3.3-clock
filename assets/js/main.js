@@ -1,12 +1,23 @@
-//var or function not 100% yet gonna read yo notes
-   //min.length = 10
+//var or function not 100% yet gonna read notes
 
-      // function minCounter()
-   //   var min = ([ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
-     //  for(i = 0; i <= min.length; i++);
-    //   {
-    //    var current[ ];
-    //    current.push(current)
+  // var thisSec = [ ];
+ //  var indexOfSec = [ ] {
+   //  for (var i = 0; i <= sec.length; i++);
+
+   //     var current = sec[i];
+ //      } if (current.indexOf(sec) > -1) {
+  //          var thisSec = [ ];
+    //           thisSec.push(current);
+    //    }
+
+       //}
+     //  var current = min[i];
+     //  if (current.indexOf(min) > -1);}
+
+
+     //   var currentMin = [i];
+     //  current.push(current)
+ //  }
 
 
 
