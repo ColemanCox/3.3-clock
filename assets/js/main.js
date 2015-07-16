@@ -1,10 +1,18 @@
 //var or function not 100% yet gonna read yo notes
-var min = ([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
-       for(i = 9; i > 1;i++); {
+   //min.length = 10
+
+      // function minCounter()
+   //   var min = ([ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
+     //  for(i = 0; i <= min.length; i++);
+    //   {
+    //    var current[ ];
+    //    current.push(current)
 
 
-     return  min[i++];
- }
+
+
+//remember opacity if you lay it over another image cc
+
 //I think I'm getting warm
 
 
