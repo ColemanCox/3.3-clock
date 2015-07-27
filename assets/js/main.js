@@ -1,18 +1,17 @@
 //var or function not 100% yet gonna read notes
+   <p id = "nowTime"></p>
+   var sec =
+    for (var i = 0; i <= sec.length; i++);
 
-  // var thisSec = [ ];
- //  var indexOfSec = [ ] {
-   //  for (var i = 0; i <= sec.length; i++);
+        var currentSec = sec[i];
 
-   //     var current = sec[i];
- //      } if (current.indexOf(sec) > -1) {
-  //          var thisSec = [ ];
-    //           thisSec.push(current);
-    //    }
+              var thisSec = [ ];
+                    thisSec.push(current);
+              }
 
-       //}
-     //  var current = min[i];
-     //  if (current.indexOf(min) > -1);}
+         }
+       var current = min[i];
+       if (current.indexOf(min) > -1);}
 
 
      //   var currentMin = [i];
