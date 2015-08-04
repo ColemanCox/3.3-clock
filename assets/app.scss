@@ -1,9 +1,16 @@
+.clock{
+    position:absolute;
+    top:50%;
+    left:50%;
 
-
-html {
-    box-sizing: border-box;
+    transform: translate(-50%, -50%);
+    font-family: monospace;
+    font-size: 40px;
+    width:50%;
+    text-align:center;
 }
 
-   *,*:before, *:after {
-    box-sizing: inherit;
-   }
+button{
+    font-size: 40px;
+    text-transform: uppercase;
+}
